@@ -8,7 +8,7 @@
 </p>
 
 
-## Basical Laravel Filament Build Starter with Blueprint
+## Basic Laravel Filament Build Starter with Blueprint
 
 ## About Laravel
 
